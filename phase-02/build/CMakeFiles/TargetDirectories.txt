@@ -1,0 +1,3 @@
+/Users/spartan/Downloads/275 minis/mini 1/test-mini/phase-02/build/CMakeFiles/mini_project.dir
+/Users/spartan/Downloads/275 minis/mini 1/test-mini/phase-02/build/CMakeFiles/edit_cache.dir
+/Users/spartan/Downloads/275 minis/mini 1/test-mini/phase-02/build/CMakeFiles/rebuild_cache.dir
